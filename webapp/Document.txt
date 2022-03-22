@@ -1,0 +1,5 @@
+class Account{
+int id;
+string type;
+}
+main method started();
